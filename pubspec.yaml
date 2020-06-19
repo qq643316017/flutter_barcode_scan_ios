@@ -1,8 +1,8 @@
 name: flutter_barcode_scan_ios
 description: A new Flutter plugin.
 version: 0.0.1
-author: chen
-homepage:https://github.com/qq643316017/flutter_barcode_scan_ios.git
+author: qq643316017 <643316017@qq.com>
+homepage: https://github.com/qq643316017/flutter_barcode_scan_ios.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
